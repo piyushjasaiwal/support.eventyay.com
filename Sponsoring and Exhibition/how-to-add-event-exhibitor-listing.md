@@ -38,12 +38,6 @@ title: How to add Exhibitors listing to my event
 
 ![sponsors](/images/how-to-add-exhibitor-in-event-4.png)
 
-#### Sessions & Speakers 
-
-##### Expand your event by adding `Sessions & Speakers`information. Click on `Turn on Sessions and Speaker`to start. Click here to go to a 
-full detailed section on adding `Sessions & Speakers`
-
-![Sessions and Speakers](/images/How-can-I-create-an-online-event-speakers-1.png)
 
 4. Click on save as draft to save the event.
 
