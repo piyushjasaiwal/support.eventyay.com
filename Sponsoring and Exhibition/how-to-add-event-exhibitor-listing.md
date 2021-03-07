@@ -58,7 +58,7 @@ title: How to add Exhibitors listing to my event
 
 8. This page will load and then click on **add exhibitor**.
 
-![exhibitor-page](/images/exhibitor-page.png)
+![exhibitor-page](/images/exhibitor-page.PNG)
 
 ![add-exhibitor](/images/how-to-add-exhibitor-in-event-9.png)
 
