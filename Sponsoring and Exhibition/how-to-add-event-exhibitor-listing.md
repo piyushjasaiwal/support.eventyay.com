@@ -6,11 +6,11 @@ title: How to add Exhibitors listing to my event
 
 1. Login to your accont on [eventyay.com](https://eventyay.com).
 
-![exhibitor-listing](/images/Can-I-set-up-an-event-with-multiple-dates-1.png)
+![exhibitor-listing](/images/how-to-add-exhibitor-in-event-13.png)
 
 2. Click on `Create Event` in the middle of the page or at the top right corner next to your profile.
 
-![Multiple Dates](/images/Can-I-set-up-an-event-with-multiple-dates-2.png)
+![create-event-page](/images/how-to-add-exhibitor-in-event-0.png)
 
 3. You will be directed to the next page where you can fill in all **Basic Details** for your event, including its name, location, dates, tickets, etc and save the event as draft.
 
